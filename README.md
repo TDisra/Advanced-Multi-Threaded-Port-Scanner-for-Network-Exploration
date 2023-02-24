@@ -1,4 +1,4 @@
-# Advanced-Multi-Threaded-Port-Scanner-for-Network-Exploration
+# Advanced Multi Threaded Port Scanner for Network Exploration
 Advanced network port scanner that can scan networks for open ports. The scanner uses threading to improve its efficiency and speed. It can scan a range of ports on a given IP address and report the open ports, along with the service running on each open port. The scanner also keeps track of IP addresses that are not reachable during the scan.
 
 ###Features
