@@ -15,4 +15,4 @@ git clone https://github.com/your-username/advanced-port-scanner.git
 
 ### Usage
 To run the port scanner, simply navigate to the directory where the script is located and run the following command:
-python port_scanner.py <ip_address> <first_port> <last_port> <num_threads>
+python port_scanner.py <ip_address> <first_port> <last_port>
